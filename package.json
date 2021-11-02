@@ -1,0 +1,9 @@
+{
+  "name": "cordmon",
+  "version": "1.0.0",
+  "description": "Another discord pokemon bot",
+  "main": "src/index.ts",
+  "repository": "https://github.com/mulukou/cordmon",
+  "author": "Mulukou",
+  "license": "MIT"
+}
